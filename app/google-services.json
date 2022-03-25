@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10924218398",
+    "project_id": "tp3-smpa-anapereira",
+    "storage_bucket": "tp3-smpa-anapereira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10924218398:android:77523848889d845386360f",
+        "android_client_info": {
+          "package_name": "br.infnet.tp3_smpa_anacarolina_melopereira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10924218398-bp8s31r8cn9e59kg7dmsrkvma7obqd3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-jJefI0mp5z6BPv7BM7s8FcRZxsgN8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10924218398-bp8s31r8cn9e59kg7dmsrkvma7obqd3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

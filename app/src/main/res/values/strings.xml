@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fiscalização Sanitária</string>
+    <string name="avalia_o">Avaliação</string>
+    <string name="t_tulo">Título</string>
+    <string name="n_o">NÃO</string>
+    <string name="sim">SIM</string>
+    <string name="enviar_avalia_o">Enviar Avaliação</string>
+    <string name="q1">1- O salão estava limpo?</string>
+    <string name="q2">2- A cozinha era limpa?</string>
+    <string name="q3">3- Alimentos  frescos?</string>
+    <string name="q4">4- Dedetização em dia?</string>
+    <string name="q5">5- Ambiente organizado?</string>
+    <string name="q6">6- A água estava pura?</string>
+    <string name="avalia_es">Avaliações</string>
+    <string name="nome">Nome</string>
+    <string name="bairro">Bairro</string>
+    <string name="empresa">Empresa:</string>
+    <string name="bairroEmpresa">Bairro:</string>
+    <string name="imagem_de_uma_lata_de_lixo_para_excluir_o_registro">Imagem de uma lata de lixo para excluir o registro</string>
+</resources>
